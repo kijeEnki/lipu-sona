@@ -1,4 +1,4 @@
 ---
 sp: 󱥬
-definition: communicate, say, think; conversation, story; language
+definition: комунікувати, казати, думати; розмова, історія; мова
 ---

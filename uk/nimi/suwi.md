@@ -1,4 +1,4 @@
 ---
 sp: 󱥦
-definition: sweet, fragrant; cute, adorable 
+definition: солодкий, смачний; милий
 ---

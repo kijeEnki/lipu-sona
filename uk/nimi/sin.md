@@ -1,6 +1,6 @@
 ---
 sp: 󱥝
-definition: new, fresh, update; repeat, do again; additional, another, extra
+definition: новий, свіжий, оновлення; повторювати, робити знову; додатковий, інший
 ---
 <!-- sin is about things that are new in some way. when you see something for the first time, it's sin. when you create something, it's sin. when you repeat an action, you're renewing your action, "mi moku sin" - "i eat again".
 
