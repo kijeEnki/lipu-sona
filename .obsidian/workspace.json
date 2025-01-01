@@ -11,10 +11,14 @@
             "id": "764e077e252c3efb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "uk/1.sounds.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.sounds"
             }
           }
         ]
