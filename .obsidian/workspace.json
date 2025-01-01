@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b65b93db21c75aa1",
+        "id": "cf9ef18171a43e75",
         "type": "tabs",
         "children": [
           {
-            "id": "426cd5f606e5f05f",
+            "id": "764e077e252c3efb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "uk/0.introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 0.introduction"
             }
           },
           {
@@ -107,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "uk/0.introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 0.introduction"
             }
           },
           {
@@ -132,9 +134,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "uk/0.introduction.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0.introduction"
             }
           }
         ]
@@ -154,8 +158,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "426cd5f606e5f05f",
+  "active": "764e077e252c3efb",
   "lastOpenFiles": [
+    "uk/0.introduction.md",
+    "typography.md",
+    "uk/1.sounds.md",
+    "optional.md",
+    "readme.md",
+    "uk/nimi/sitelen.md",
+    "uk/nimi/tenpo.md",
+    "uk/nimi/wile.md",
+    "uk/nimi/weka.md",
+    "uk/nimi/wawa.md",
+    "uk/nimi/waso.md",
+    "uk/nimi/wan.md",
+    "uk/nimi/walo.md",
+    "uk/nimi/utala.md",
+    "uk/nimi/uta.md",
+    "uk/nimi/unpa.md",
+    "uk/nimi/tu.md",
+    "uk/nimi/tomo.md",
+    "uk/nimi/toki.md",
+    "uk/nimi/telo.md",
+    "uk/nimi/tawa.md",
+    "uk/nimi/taso.md",
+    "uk/nimi/tan.md",
+    "uk/nimi/suwi.md",
+    "uk/nimi/supa.md",
+    "uk/nimi/suno.md",
+    "uk/nimi",
+    "uk/extra",
+    "uk",
+    "en - Copy/nimi",
+    "en - Copy/extra",
+    "en - Copy",
     "New Text Document.txt"
   ]
 }
